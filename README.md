@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">React Native + Reanimated</h1>
+  <h1 align="center">React Native + Reanimated 2</h1>
   <h3 align="center">Sandbox for experimentations with the "react-native-reanimated" v2 package</h3>
 </p>
 
