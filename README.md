@@ -13,15 +13,15 @@ For project instalation just execute the following steps:
     yarn
 
 ### Run It
-Start the local packager
+Start the local packager 📦:
 
 	yarn start
 
-Run the project on the iOS simulator:
+Run the project on the iOS simulator 📱:
 
 	yarn ios
 
-Run the project on the Android simulator (make sure to have it running beforehand):
+Run the project on the Android simulator 👾 (make sure to have it running beforehand):
 
 	yarn android
 
