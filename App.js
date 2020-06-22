@@ -5,12 +5,13 @@ import {createStackNavigator} from '@react-navigation/stack';
 
 // Screens
 import {AnimatedBoxes} from './screens/AnimatedBoxes';
+import {SwipingImages} from './screens/SwipingImages';
 
 const Stack = createStackNavigator();
 
 const SCREENS = [
   {name: 'AnimatedBoxes', component: AnimatedBoxes},
-  {name: 'AnimatedBoxes2', component: AnimatedBoxes},
+  {name: 'SwipingImages', component: SwipingImages},
 ];
 
 function MenuItem({title = '', name}) {
