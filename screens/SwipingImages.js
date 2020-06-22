@@ -18,8 +18,6 @@ const {width, height} = Dimensions.get('window');
 const MAX_WIDTH = ASSETS.length * width;
 const SNAP_POINTS = ASSETS.map((_, i) => i * -width);
 
-console.log('SNAP', SNAP_POINTS);
-
 export const SwipingImages = () => {
   const translateX = useSharedValue(0);
 
