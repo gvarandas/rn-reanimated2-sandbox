@@ -3,6 +3,8 @@
   <h3 align="center">Sandbox for experimentations with the "react-native-reanimated" v2 package</h3>
 </p>
 
+Test change
+
 ## Installation
 For project instalation just execute the following steps:
 
